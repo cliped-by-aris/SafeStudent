@@ -1,6 +1,6 @@
 # SafeStudent
 
-SafeStudent protege sistemas escolares del mal uso. Detecta comandos peligrosos y crea backups automáticos.
+SafeStudent protege sistemas escolares de los peligros de la terminal. Detecta comandos peligrosos y crea backups automáticos.
 
 ## Instalación
 ```bash
