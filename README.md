@@ -12,5 +12,6 @@ chmod +x install.sh
 - Detecta comandos peligrosos
 - Crea backups antes de ejecutarlos
 - Te pregunta si deseas continuar
+
 ##Problema
 Si sale el mensaje de "Permiso denegado" hacer un chmod 777 safestudent.sh
