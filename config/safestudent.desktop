@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=SafeStudent
+Exec=/opt/SafeStudent/safestudent.sh
+Icon=/opt/SafeStudent/icon.png
+Terminal=true
+Type=Application
+Categories=Utility;Security;
